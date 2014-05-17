@@ -1,3 +1,3 @@
 (function allowExport() {
-	//document.querySelector('.output-button').textContent = 'Tests';
+    //document.querySelector('.output-button').textContent = 'Tests';
 }(chrome)); // dependencies
